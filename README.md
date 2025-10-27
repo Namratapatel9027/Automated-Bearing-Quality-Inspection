@@ -81,8 +81,6 @@ showing detected bearings, pin counts, and defective rings highlighted for revie
 
 </div>
 
-> 📸 Place your actual output screenshots in the `images/` folder and rename them as `output1.png` and `output2.png`.
-
 ---
 
 ## 📊 Pipeline Summary
