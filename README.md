@@ -8,6 +8,10 @@
 
 ---
 
+## Dataset
+Download dataset from:
+[https://drive.google.com/Bearing_data](https://drive.google.com/file/d/1xx6LGH8ae98OmQMsoG1tYLMYL9at_fou/view?usp=sharing)
+
 ## 📘 Overview
 
 This repository presents an **Automated Bearing Quality Inspection System** that leverages **deep learning and computer vision** to inspect bearing images automatically.  
